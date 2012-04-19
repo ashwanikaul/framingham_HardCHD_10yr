@@ -1,0 +1,13 @@
+#Complied source
+################
+*.class
+
+#bin folder
+############
+bin/
+
+#settings
+###########
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
