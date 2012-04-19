@@ -1,10 +1,11 @@
-THIS PROJECT IS AN IMPLEMENTATION OF HARD CORONARY HEART DISEASE (10-YEAR RISK)
-THE PREDICTORS AND CALCULATIONS FOR OUTCOMES ARE BASED ON FARMIGHAM HEART STUDY AS POSTED 
-AT THE FOLLOWING WEB PAGE 
+This project is an implementation of 10-year Risk assessment for Hard Coronary Heart Disease
+based on Farmingham Heart Study.
+The predictors and calculations for outcomes are based on farmigham heart study as posted 
+at the following web page 
 
-           http://www.framinghamheartstudy.org/risk/hrdcoronary.html
+           http://www.Framinghamheartstudy.Org/risk/hrdcoronary.html
 
-THE INTENT OF THIS PROJECT IS TO SHARE CODE FOR FARMIGHAM CALCULATOR
+The intent of this project is to provide a jumpstart to any person/institution who is implementing 
+Farmigham calculator as part of their EHR or Clinic Support System
 
-
-THE PUBLISHER OF THIS SOFTWARE ASSUMES NO LIABILITY FOR ANY DAMAGES
+The publisher of this software assumes no liability for any damages
