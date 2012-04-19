@@ -1,11 +1,13 @@
-This project is an implementation of 10-year Risk assessment for Hard Coronary Heart Disease
-based on Farmingham Heart Study.
+This project is an implementation of 10-year Risk assessment for 
+Hard Coronary Heart Disease based on the Farmingham Heart Study.
+
 The predictors and calculations for outcomes are based on farmigham heart study as posted 
 at the following web page 
 
            http://www.Framinghamheartstudy.Org/risk/hrdcoronary.html
 
-The intent of this project is to provide a jumpstart to any person/institution who is implementing 
-Farmigham calculator as part of their EHR or Clinic Support System
+The intent of this project is to provide a jumpstart to any 
+person/institution for implementing Farmigham calculator 
+as part of their EHR or Clinic Support System
 
 The publisher of this software assumes no liability for any damages
