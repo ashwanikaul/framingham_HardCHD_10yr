@@ -11,3 +11,4 @@ bin/
 .classpath
 .project
 .settings/org.eclipse.jdt.core.prefs
+.DS_Store
